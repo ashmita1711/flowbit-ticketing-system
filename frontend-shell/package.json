@@ -1,0 +1,20 @@
+{
+  "name": "frontend-shell",
+  "version": "1.0.0",
+  "private": true,
+  "description": "React shell for Flowbit with Module Federation",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.23.0",
+    "axios": "^1.6.7"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1"
+  }
+}

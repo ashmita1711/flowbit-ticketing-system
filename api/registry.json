@@ -1,0 +1,8 @@
+{
+  "LogisticsCo": [
+    { "name": "Support Tickets", "url": "http://localhost:3001/remoteEntry.js" }
+  ],
+  "RetailGmbH": [
+    { "name": "Support Tickets", "url": "http://localhost:3001/remoteEntry.js" }
+  ]
+}
